@@ -11,13 +11,13 @@
 carpentry: 'incubator'
 
 # Overall title for pages.
-title: '2023-xr-design'
+title: 'XR Design'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: '2023-10-17'
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, The Carpentries'
+keywords: 'xr, software, design, data, lesson, The Carpentries'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -27,7 +27,7 @@ life_cycle: 'pre-alpha'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://example.com/FIXME-template-source'
+source: 'https://github.com/karina-rodriguez/2023-xr-design'
 
 # Default branch of your lesson
 branch: 'main'
@@ -60,6 +60,7 @@ contact: 'team@carpentries.org'
 # Order of episodes in your lesson
 episodes: 
 - introduction.Rmd
+- users.Rmd
 
 # Information for Learners
 learners: 
