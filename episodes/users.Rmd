@@ -27,6 +27,34 @@ Facilitates vision development, strategic thinking of systems which will be buil
 
 Example segmentation tools: [Office of National Statistics Profiles - Census 2021](https://www.ons.gov.uk/visualisations/customprofiles/draw/)
 
+
+## The five W’s (and one H)  of digital experience design
+
+![&copy; Cagkan - adobe.stock.com](fig/AdobeStock_542363694.jpeg){alt="5 w"}
+
+**Who**: who is the user?
+
+**What**: what will the users do? what is their task/s?
+
+**When**: when will the users perform the task (at home, in the exhibition?)
+
+**Where**: where will the users live the experience (physical environment, conditions, other users and more)?
+
+**Why**: why do users perform the tasks (purpose, goal)?
+
+**How**: how will they perform the tasks?
+
+
+## Who is the user?
+Some key points to examine when thinking of the user:
+
+- Personal information
+- Professional information
+- Goals
+- Values
+- Communication and media
+- Frustrations
+
 :::::::::::::::::::::::::::::::::challenge
 
 ## Challenge in groups of 2 or 3: User profiling
@@ -52,190 +80,27 @@ system you want to develop.
 
 :::::::::::::::::::::::::::::::::
 
-Stakeholders who wish to keep involved
-Audiences: UX personas
-Archetypical CH audiences
-Empathetic design thinking
 
-Key points to examine:
-Personal information
-Professional information
-Goals
-Values
-Communication and media
-Frustrations
-What is digital experience design
-interconnected with User Experience (UX)
-captures the user’s journey when interacting with a system, service or product
-refers to thinking, planning, proposing a digital product
-affects audiences’ perceptions and responses via this product
-aims at designing an experiential framework for meaningful experiences
+## XR experience design
 
-Digital experience design aspects:
-How the experience feels, what are its components
-How the the experience is formulated through prototyping and testing
-Entire view of the experience development  (e.g. design, usability, function, desirability)
+Interconnected with User Experience (UX).
 
+It should captures the user's journey when interacting 
+with the system, service or product.
 
-The five W’s (and one H)  of digital experience design
-Who: who is the user (audiences)?
+Define the Minimum Viable Product (MVP), 
+the Minimal Marketable Product (MMP),
+and ideas to be 
+prototyped and tested. 
 
-What: what will the users do? what is their task/s?
+In XR systems it is particularly important to test
+the feasibility of the system delivering
+the experience as envisaged.
 
-Where: where will the users live the experience (physical environment, conditions, other users and more)?
 
-When: when will the users perform the task (at home, in the exhibition?)
 
-Why: why do users perform the tasks (purpose, goal)?
+![User journey considerations &copy; baranq adobe.stock.com](fig/AdobeStock_620925406.jpeg){alt="user resting"}
 
-How: how will they perform the tasks?
-Digital experience design developments
-Involves interdisciplinary teams
-
-Moves towards less authoritative approaches (audience/user centered instead of GLAM centered)
-
-Iterative way to manage digital experiences (non-linear)
-
-Embraces more voices, i.e. community collaboration
-
-Moves out of the GLAM’s door and becomes participatory and experimental, (intangible documentation, field work, community decisions/content)
-
-Becomes more critical and tackles global challenges
-
-
-Digital experience design in CH: disciplines
-
-Museum curation/exhibition design
-
-Product design
-
-Software development/User experience (UX) design
-
-Teams often include: curators, researchers/subject specialists, designers, ICT departments, graphic designers, communities, and more
-Digital experience design processes: curation/exhibition design 
-Digital experience design processes: product design 
-Framework for Innovation (2019)
-
-Discover: Understand, rather than simply assume the problem spending time with people
-
-Define: From the discovery phase helps to define the challenge
-
-Develop: Encourages people to give different answers to the problem, seeking inspiration and by co-designing
-
-Deliver: Involves testing different solutions at small-scale, rejecting and/or improving others
-
-Digital experience design processes: product design 
-Systemic Design Framework (2021)
-
-Design elements:
-Orientation and vision setting
-Leadership and storytelling
-Connections and relationships
-Continuing the journey
-
-Design processes:
-Explore
-Reframe
-Create
-Catalyse
-
-
-Digital experience design processes: UX design 
-Digital experience design processes: commonalities
-Digital experience design processes: design thinking
-Design thinking (1950-)
-
-User-centered approach
-
-Brings together people from the initial stages of development
-
-Good to define the ‘problem’ (exploratory)
-
-Good for innovative design
-
-Focus on how useful the product is to the user
-
-Can be combined with other processes/methodologies
-
-Digital experience design processes: methodologies
-Digital experience design approach: Co-design
-Users become active collaborators
-
-It is a participatory practice in CH
-
-Focus on iterative, user centered activities and decisions
-
-Empowerment, ownership, democratisation
-
-In the digital spectrum in involves users throughout the design process
-
-More appropriate for user-centered methodologies (e.g. Agile, Lean)
-Digital experience design processes: methods
-Appreciative enquiry
-
-Field walks
-
-Brainstorming
-
-Interviews
-
-Focus groups
-
-Digital experience design processes: methods
-Personas
-
-Narrative scenarios
-
-Bodystorming
-
-Card metaphors/card sorting
-
-Task analysis
-
-
-
-Digital experience design processes: methods
-Low fidelity prototyping
-
-Sketching in hardware
-
-Qualitative usability testing
-
-Benchmark testing
-
-Accessibility evaluation (WCAG 2.1/2.2)
-
-
-Digital experience design processes: methods
-Interviews
-
-Focus groups
-
-Observations
-
-Surveys
-
-Log analysis
-
-Digital experience design: considerations
-Digital experience design: MVP/MMP/MLP versions
-Interactive multimedia experiences in CH
-Can be classified under different criteria (e.g. purpose/function, audience, media, device, location, involvement of senses)
-GLAMs testbeds for digital, hence great variety of applications
-
-Some examples:
-Online collection explorations: Smithsonian National Museum of Natural History – Human evolution 
-Online storytelling exhibits: Google Arts & Culture – Wood carving Craft, Brighton & Hove Museums – A short rife in a log walk
-Journey makers: Art Institute Chicago – Journey maker
-Virtual tours: Sir John Soane’s Museum – Virtual tour, Vizcaya Museum and Gardens – Virtual tour
-Interactions with holograms: Illinois Holocaust Museum & Education Centre – Survivor Stories Experience
-VR/AR applications: Iron Age funerary urn from Saltdean, Sussex, CHESS AR stories at the Acropolis Museum
-Audio tours: Ashmolean Museum Oxford – Rebellious Bodies
-Educational applications/games: Science Museum – Total darkness, American Museum of Natural History – Ology
-Creative activities: V&A – Make & Do: Stitch and sew
-Well-being activities: National Gallery - Van Gogh's 'Wheatfield, with Cypresses’ 5 minute meditation
-Podcasts: Tate podcasts
-Smart replicas/exhibitions: Smart replicas, Allard Pierson Museum - Smart exhibition 'Schijnbeweging'
 
 
 
@@ -243,10 +108,10 @@ Smart replicas/exhibitions: Smart replicas, Allard Pierson Museum - Smart exhibi
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
+- Understanding who the user is and their circumstances is the first step
+for formulating an XR application
+- Some techniques like profiling and the 5 W's are useful to 
+brainstorm.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
