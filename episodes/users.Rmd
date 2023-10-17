@@ -29,17 +29,25 @@ Example segmentation tools: [Office of National Statistics Profiles - Census 202
 
 :::::::::::::::::::::::::::::::::challenge
 
-## Challenge: Find the characteristics relevant to your application
+## Challenge in groups of 2 or 3: User profiling
 
+Select a geographical area in Brighton, or another city, to identify users
+for your intended
+XR system. 
 
-Explore an area of Brighton
-where you think users can make use of your intended
-XR system.
-
-Explore the type of user they are using the
+Using the
 profile tool from [National Statistics](Office of National Statistics Profiles),
-imagine how much disposable income have and what 
+explore the type of users they are.
+
+Reflect on characteristics, such as which jobs
+they have, are they families or young people,
+how much disposable income have and what 
 type of activities they like doing.
+
+Try to reflect on the type of equipment they might have access to
+when it comes to XR applications, and other
+types of decisions which might affect the type of
+system you want to develop.
 
 
 :::::::::::::::::::::::::::::::::
