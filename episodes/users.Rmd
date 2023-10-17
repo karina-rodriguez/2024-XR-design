@@ -27,6 +27,8 @@ Facilitates vision development, strategic thinking of systems which will be buil
 
 Example segmentation tools: [Office of National Statistics Profiles - Census 2021](https://www.ons.gov.uk/visualisations/customprofiles/draw/)
 
+:::::::::::::::::::::::::::::::::challenge
+
 ## Challenge: Find the characteristics relevant to your application
 
 
