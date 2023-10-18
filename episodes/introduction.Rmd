@@ -1,5 +1,5 @@
 ---
-title: 'introduction'
+title: 'Introduction'
 teaching: 10
 exercises: 2
 ---
@@ -33,12 +33,12 @@ Jensen, N. (1999). Children, teenagers and adults in museums: a developmental pe
 
 
 Interactive experiences are the basis of knowledge (constructivist theory of knowing).
+
 Experiences cannot just be provided or delivered.
 
-In User Design (UX), interactive experiences connect users with an ‘environment’ in non-passive ways.
+In **User Design (UX)**, interactive experiences connect users with an ‘environment’ in non-passive ways.
 
-An experience curator designs an experiential framework, but the way the experience is perceived belongs to the user.
-
+An **experience curator** designs an experiential framework, but the way the experience is perceived belongs to the user.
 
 
 
