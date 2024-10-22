@@ -1,5 +1,5 @@
 ---
-title: 'Considering users\' needs'
+title: 'Users'
 teaching: 10
 exercises: 2
 ---
