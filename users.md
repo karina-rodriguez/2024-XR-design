@@ -59,13 +59,14 @@ Some key points to examine when thinking of the user:
 
 ## Challenge in groups of 2 or 3: User profiling
 
-Select a geographical area in Brighton, or another city, to identify users
+Identify users
 for your intended
-XR system. 
+XR system. Describe who they are, and 
+how is the system going to
+support their needs.
 
-Using the
-profile tool from [National Statistics](https://www.ons.gov.uk/visualisations/customprofiles/draw/),
-explore the type of users they are.
+You can use tools, such as [National Statistics](https://www.ons.gov.uk/visualisations/customprofiles/draw/),
+to explore the type of users if targetting an geographical area.
 
 Reflect on characteristics, such as which jobs
 they have, are they families or young people,
