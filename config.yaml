@@ -14,26 +14,26 @@ carpentry: 'incubator'
 title: 'XR Design'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: '2023-10-17'
+created: '2024-10-21'
 
 # Comma-separated list of keywords for the lesson
 keywords: 'xr, software, design, data, lesson, The Carpentries'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
-life_cycle: 'pre-alpha'
+life_cycle: 'stable'
 
 # License of the lesson materials (recommended CC-BY 4.0)
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/karina-rodriguez/2023-xr-design'
+source: 'https://github.com/karina-rodriguez/2024-xr-design'
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org'
+contact: 'K.Rodriguez@brighton.ac.uk'
 
 # Navigation ------------------------------------------------
 #
@@ -58,19 +58,19 @@ contact: 'team@carpentries.org'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
+episodes:
 - introduction.Rmd
 - users.Rmd
 - development-process.Rmd
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
